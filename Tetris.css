@@ -1,0 +1,21 @@
+
+body { 
+    height: 100vh;
+    width: 50vw;
+    display:grid;
+    grid-template-columns: repeat(10, auto);
+    
+}
+
+.futureCoords{
+    background-color: gray;
+}
+.block{
+    background-color:red;
+}
+.background{
+    background-color:black;
+}
+
+
+
